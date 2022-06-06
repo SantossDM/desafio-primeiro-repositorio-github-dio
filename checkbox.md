@@ -6,21 +6,21 @@
 
 - [x] **Conheça as Oportunidades da DIO**
 
-- [x] Seja Protagonista Neste Bootcamp
+- [x] **Seja Protagonista Neste Bootcamp**
 
-- [x] Boas-vindas ao Santander Bootcamp Fullstack Developer
+- [x] **Boas-vindas ao Santander Bootcamp Fullstack Developer**
 
-- [x] Aula Inaugural - Santander Bootcamp Fullstack Developer
+- [x] **Aula Inaugural - Santander Bootcamp Fullstack Developer**
 
   
 
 #### Módulo I - Conteúdo de Abertura
 
-- [x] Introdução à Programação e Pensamento Computacional
+- [x] **Introdução à Programação e Pensamento Computacional**
 
-- [x] Introdução ao Git e ao GitHub
+- [x] **Introdução ao Git e ao GitHub**
 
-- [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+- [x] **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso**
 
   
 
