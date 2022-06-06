@@ -4,7 +4,7 @@
 
 #### Módulo 0 - Prepare-se para a Jornada
 
-- [x] Conheça as Oportunidades da DIO
+- [x] **Conheça as Oportunidades da DIO**
 
 - [x] Seja Protagonista Neste Bootcamp
 
