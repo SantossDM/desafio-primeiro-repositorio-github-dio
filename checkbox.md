@@ -26,7 +26,7 @@
 
 #### Módulo II - HTML/CSS3/JS
 
-- [ ] Introdução a criação de websites com HTML5 e CSS3
+- [x] Introdução a criação de websites com HTML5 e CSS3
 
 - [ ] Posicionando elementos com Flexbox em CSS
 
