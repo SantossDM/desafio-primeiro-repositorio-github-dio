@@ -32,9 +32,9 @@
 
 - [ ] Recriando a página inicial do Instagram
 
-- [ ] Introdução ao JavaScript
+- [x] Introdução ao JavaScript
 
-- [ ] Sintaxe e Operadores
+- [x] Sintaxe e Operadores
 
 - [ ] Variáveis e Tipos
 
