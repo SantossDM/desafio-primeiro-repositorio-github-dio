@@ -30,11 +30,11 @@
 
 - [x] **Posicionando elementos com Flexbox em CSS8**
 
-- [ ] Recriando a página inicial do Instagram
+- [x] **Recriando a página inicial do Instagram**
 
-- [x] Introdução ao JavaScript
+- [x] **Introdução ao JavaScript**
 
-- [x] Sintaxe e Operadores
+- [x] **Sintaxe e Operadores**
 
 - [ ] Variáveis e Tipos
 
