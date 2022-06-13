@@ -36,7 +36,7 @@
 
 - [x] **Sintaxe e Operadores**
 
-- [ ] Variáveis e Tipos
+- [x] **Variáveis e Tipos**
 
 - [ ] Funções
 
