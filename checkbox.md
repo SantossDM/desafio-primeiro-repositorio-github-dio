@@ -38,7 +38,7 @@
 
 - [x] **Variáveis e Tipos**
 
-- [ ] Funções
+- [x] **Funções**
 
 - [ ] Coleções
 
