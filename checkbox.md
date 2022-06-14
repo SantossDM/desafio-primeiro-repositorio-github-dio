@@ -40,7 +40,7 @@
 
 - [x] **Funções**
 
-- [ ] Coleções
+- [x] **Coleções**
 
 - [ ] Map, Filter, Reduce
 
