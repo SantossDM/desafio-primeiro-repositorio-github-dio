@@ -42,7 +42,7 @@
 
 - [x] **Coleções**
 
-- [ ] Map, Filter, Reduce
+- [x] **Map, Filter, Reduce**
 
 - [ ] Debugging e Error Handling
 
