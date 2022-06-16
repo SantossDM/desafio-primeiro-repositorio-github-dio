@@ -44,7 +44,7 @@
 
 - [x] **Map, Filter, Reduce**
 
-- [ ] Debugging e Error Handling
+- [x] **Debugging e Error Handling**
 
 - [ ] Javascript Assíncrono
 
