@@ -54,7 +54,7 @@
 
 - [x] **Trabalhando com Módulos em JavaScript**
 
-- [ ] Manipulando a D.O.M com JavaScript
+- [x] **Manipulando a D.O.M com JavaScript**
 
 - [ ] Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
 
