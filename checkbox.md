@@ -46,11 +46,11 @@
 
 - [x] **Debugging e Error Handling**
 
-- [ ] Javascript Assíncrono
+- [x] **Javascript Assíncrono**
 
-- [ ] Orientação a objetos
+- [x] **Orientação a objetos**
 
-- [ ] Desafios Iniciais Js - Santander Fullstack Developer
+- [x] **Desafios Iniciais Js - Santander Fullstack Developer**
 
 - [ ] Trabalhando com Módulos em JavaScript
 
