@@ -52,7 +52,7 @@
 
 - [x] **Desafios Iniciais Js - Santander Fullstack Developer**
 
-- [ ] Trabalhando com Módulos em JavaScript
+- [x] **Trabalhando com Módulos em JavaScript**
 
 - [ ] Manipulando a D.O.M com JavaScript
 
