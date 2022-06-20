@@ -58,7 +58,7 @@
 
 - [x] **Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces**
 
-- [ ] Introdução Prática ao TypeScript
+- [x] **Introdução Prática ao TypeScript**
 
   
 
