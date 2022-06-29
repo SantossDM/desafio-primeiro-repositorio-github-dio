@@ -64,8 +64,8 @@
 
 #### Módulo III - Angular
 
-- [ ] Introdução ao Angular 8
-- [ ] Trabalhando com Páginas SPA com Angular
+- [x] **Introdução ao Angular 8**
+- [x] **Trabalhando com Páginas SPA com Angular**
 - [ ] A arquitetura de componentes e a gestão da complexidade no front-end
 - [ ] Instalando e Preparando o Ambiente Angular
 - [ ] Explorando Diretivas com Angular
