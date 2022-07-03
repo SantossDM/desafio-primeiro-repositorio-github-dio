@@ -67,7 +67,7 @@
 - [x] **Introdução ao Angular 8**
 - [x] **Trabalhando com Páginas SPA com Angular**
 - [x] **A arquitetura de componentes e a gestão da complexidade no front-end**
-- [ ] Instalando e Preparando o Ambiente Angular
+- [x] **Instalando e Preparando o Ambiente Angular**
 - [ ] Explorando Diretivas com Angular
 - [ ] Implementando Serviços e Injeção de Dependências com Angular
 - [ ] Introdução a Serviços Assíncronos no Angular
